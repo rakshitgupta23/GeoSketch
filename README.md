@@ -5,15 +5,7 @@ Draw your thoughts, save your location.
 GeoSketch is a browser-based sketching app built using **React** and powerful **Web APIs** like the **Canvas API**, **Geolocation API**, and **Background Tasks**-like logic. It allows users to draw on a canvas, attach location data, and automatically save their sketches with minimal friction.
 
 ## 🚀 Live Demo
-> _(Optional)_ Deployed link: [geosketch.vercel.app](https://geosketch.vercel.app) (if deployed)
-
----
-
-## 🧠 Why This Project?
-
-As part of the TAP Invest Frontend Developer Assignment, the challenge was to:
-- **Build a real-life project**
-- Using **at least 3 Web APIs**
+Deployed link: [geosketch.vercel.app](https://geosketch.vercel.app) 
 
 ---
 
@@ -41,11 +33,19 @@ As part of the TAP Invest Frontend Developer Assignment, the challenge was to:
 
 ## 📷 Screenshots
 
-| Drawing Mode | Gallery View |
-|--------------|--------------|
-| ![Drawing](./public/screenshot1.png) | ![Gallery](./public/screenshot2.png) |
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e911f3f0-2ae1-4d72-ae47-c419d2fc7b9b" />&nbsp;
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6f091272-97e1-4584-a19f-530a403d1679" />&nbsp;
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5cad18b7-1b2f-4016-9c6b-9b662be369a9" />
+
+
+
+
 
 ---
 
-
-# GeoSketch
